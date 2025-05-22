@@ -1,8 +1,6 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-import folium
-from streamlit_folium import st_folium
 import matplotlib.pyplot as plt
 import seaborn as sns
 from streamlit_option_menu import option_menu
